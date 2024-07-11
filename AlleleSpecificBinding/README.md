@@ -3,7 +3,7 @@ Material and source code for Kribelbauer et al. (https://www.biorxiv.org/content
 
 # Allele Specific Binding scripts
 For calculating Allele Specific Binding, we used a 3-step protocol:
-1. Running bwa mem to align the fastq files to Homo_sapiens GRCh37.75 (hg19) assembly
+1. Running bwa mem to align the fastq files to Homo_sapiens [GRCh37.75](https://ftp.ensembl.org/pub/release-75/fasta/homo_sapiens/dna/) (hg19) assembly
 2. Running Picard tool for removing duplicated reads
 3. Running Freebayes with an input VCF file, to count reads mapping to each allele
 
