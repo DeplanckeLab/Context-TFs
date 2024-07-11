@@ -10,6 +10,6 @@ For calculating Allele Specific Binding, we used a 3-step protocol:
 We've run this for each TF separately. Designing different scripts depending on the protocol used: [ATAC-seq, ChIP-seq, GRO-seq, HyDRA] and [single-end, paired-end]
 
 # Issues encountered
-Freebayes has an inner bug, making it impossible to run the tool with both `--variant-input` and `--only-use-input-alleles` options activated. See GitHub issue (still unresolved to this day) here: (https://github.com/freebayes/freebayes/issues/166)[https://github.com/freebayes/freebayes/issues/166]
+Freebayes has an inner bug, making it impossible to run the tool with both `--variant-input` and `--only-use-input-alleles` options activated. See GitHub issue (still unresolved to this day) here: [https://github.com/freebayes/freebayes/issues/166](https://github.com/freebayes/freebayes/issues/166)
 Therefore, we designed a work-around strategy by splitting the assembly by chromosome, and processing each chromosome separately.
 
