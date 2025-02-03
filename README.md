@@ -1,5 +1,13 @@
 # Context-TFs
-Material and source code for Kribelbauer et al. (https://www.biorxiv.org/content/10.1101/2023.05.05.539543v1). 
+Material and source code for Kribelbauer et al. 
+
+## Citation
+**Context transcription factors establish cooperative environments and mediate enhancer communication**<br/>
+Judith F Kribelbauer-Swietek, Olga Pushkarev, Vincent Gardeux, Katerina Faltejskova, Julie Russeil, Guido van Mierlo, Bart Deplancke<br/>
+*Nat Genet 56*, 2199–2212 (2024)<br/>
+DOI: [https://doi.org/10.1038/s41588-024-01892-7](https://doi.org/10.1038/s41588-024-01892-7)
+
+## Description
 
 In this project, we developed a novel approach leveraging enhancer-centric chromatin accessibility quantitative trait loci (caQTLs) to nominate cooperative, high concentration environments genome-wide. By analyzing TF binding signatures within the context of caQTLs and comparing episomal versus endogenous enhancer activities, we discovered a new class of regulators: ‘context-only’ TFs, whose binding sites (BSs) co-occur with those of cell type-specific pioneers, thereby boosting their activity. 
 We show that the co-occurrence between these two types of TFs does not require a strict binding site syntax, suggesting that functional complementarity drives their co-enrichment.
