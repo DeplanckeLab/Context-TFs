@@ -4,7 +4,7 @@ Material and source code for Kribelbauer et al.
 ## Citation
 **Context transcription factors establish cooperative environments and mediate enhancer communication**<br/>
 Judith F Kribelbauer-Swietek, Olga Pushkarev, Vincent Gardeux, Katerina Faltejskova, Julie Russeil, Guido van Mierlo, Bart Deplancke<br/>
-*Nat Genet 56*, 2199–2212 (2024)<br/>
+*Nature Genetics* **56**, 2199–2212 (2024)<br/>
 DOI: [https://doi.org/10.1038/s41588-024-01892-7](https://doi.org/10.1038/s41588-024-01892-7)
 
 ## Description
